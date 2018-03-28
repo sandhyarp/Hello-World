@@ -1,0 +1,11 @@
+ Volume in drive D has no label.
+ Volume Serial Number is A4B6-C8BB
+
+ Directory of D:\devops\Git Projects\project1\Hello-World
+
+03/28/2018  11:55 AM    <DIR>          .
+03/28/2018  11:55 AM    <DIR>          ..
+03/27/2018  01:23 PM                29 README.md
+03/28/2018  11:55 AM                 0 test1.txt
+               2 File(s)             29 bytes
+               2 Dir(s)  89,595,011,072 bytes free
